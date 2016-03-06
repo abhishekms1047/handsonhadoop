@@ -1,5 +1,5 @@
 #!/bin/sh
 
-~/javaone14_handsonhadoop/pdf.sh
-~/javaone14_handsonhadoop/mvn.sh
-~/javaone14_handsonhadoop/data.sh
+~/handsonhadoop/pdf.sh
+~/handsonhadoop/mvn.sh
+~/handsonhadoop/data.sh

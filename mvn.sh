@@ -1,4 +1,4 @@
 #!/bin/sh
 
-mkdir ~/.m2
-mv ~/javaone14_handsonhadoop/settings.xml ~/.m2
+mkdir ~/.m2 >/dev/null 2>&1
+mv ~/handsonhadoop/settings.xml ~/.m2

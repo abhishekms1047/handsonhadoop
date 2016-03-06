@@ -1,4 +1,4 @@
 #!/bin/sh
 
-gunzip ~/javaone14_handsonhadoop/data/users.csv.gz
-gunzip ~/javaone14_handsonhadoop/data/logins.log.gz
+gunzip ~/handsonhadoop/data/users.csv.gz
+gunzip ~/handsonhadoop/data/logins.log.gz
